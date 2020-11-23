@@ -1,8 +1,10 @@
+INSPIRED BY AL SWEIGART From His Famous Book "Automate The Boring Stuff with Python".
+
+
 Whats a Regex?
+
 A REgex is a regular expression used for pattern matching like a common type of string from large text Files.
 
-
-INSPIRED BY AL SWEIGART From His Famous Book "Automate The Boring Stuff with Python".
 
 Regular Expression or Regex for extraction of emails and phone numbers(US) coded in python 3.
 
